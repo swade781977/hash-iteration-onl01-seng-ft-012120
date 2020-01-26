@@ -1,4 +1,4 @@
-require 'pry'
+
 #passengers = {
 # suite_a: "Amanda Presley", 
 # suite_b: "Seymour Hoffman", 
@@ -14,5 +14,4 @@ def select_winner(passengers)
       winner = name
     end
   end
-  binding.pry
 end
